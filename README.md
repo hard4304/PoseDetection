@@ -1,0 +1,1 @@
+This file usses the opencv to monitor the various movements in your video feed either through your webcam or video in provide by you. Please make sure you have all the neccessary files before running the code. 
