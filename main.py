@@ -10,7 +10,7 @@ pose = mPose.Pose()
 # This is how I shall be reading my own video
 # cap = cv2.VideoCapture(0)
 
-cap = cv2.VideoCapture('myVideo.mp4')
+cap = cv2.VideoCapture('1.mp4')
 
 # This is for the source image dots
 drawSpec1 = mpDraw.DrawingSpec(thickness=2, circle_radius=3, color=(255, 0, 0))  # The color is in the BGR format
